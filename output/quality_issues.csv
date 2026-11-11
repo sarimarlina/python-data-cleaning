@@ -1,0 +1,4 @@
+source_line,customer_id,issue
+5,C001,Duplicate customer ID
+6,C004,Missing email
+8,C006,Missing name

@@ -1,0 +1,23 @@
+PROJECT TITLE
+Python Data Cleaning | Fix Duplicates & Missing Values
+
+PROJECT ROLE
+Python Data Processing & Automation Specialist
+
+PROJECT DESCRIPTION (copy to Upwork)
+I created this personal sample project to demonstrate a practical data workflow using python · csv · data quality.
+
+The project shows how to:
+- detect and remove duplicate records.
+- standardize inconsistent text and dates.
+- export clean dataset and qa report.
+
+Deliverables include reusable Python source code, synthetic input data, processed output files, and a clear explanation of the workflow. All sample data is fictional and safe to share.
+
+PROJECT IMAGES / ATTACHMENTS
+1. portfolio_cover.png (cover)
+2. output files, e.g. CSV output or report chart (attach if supported)
+3. README.md or a screenshot showing before/after results
+
+IMPORTANT
+Label this as "Personal Sample Project". Do not claim the sample is a paid client project or claim unmeasured performance improvements.

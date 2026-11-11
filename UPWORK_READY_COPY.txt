@@ -1,0 +1,23 @@
+PROJECT TITLE: Python Data Cleaning & Validation
+MY ROLE: Python Data Processing & Automation Specialist
+
+PROJECT DESCRIPTION (paste into Upwork):
+Personal portfolio demonstration using fictional/synthetic data. Read raw customer records, standardize names/emails/cities/dates, deduplicate by customer ID, and log data-quality issues.
+
+Verified results in this sample:
+8 raw rows; 7 unique customer IDs; 1 duplicate removed; 3 issues logged (1 duplicate and 2 missing fields).
+
+Deliverables: Cleaned customer CSV and data-quality issues CSV.
+
+The GitHub repository includes the reproducible source code, sample inputs, processed outputs, before/after evidence image, and a PDF report. This is a personal sample project, not client work.
+
+SKILLS: Python, CSV, Data Cleaning, Data Validation
+
+GITHUB LINK: https://github.com/sarimarlina/python-data-cleaning
+(Only use this URL AFTER you have created and verified that the public repository exists.)
+
+FILES TO ATTACH IN UPWORK:
+1. portfolio_cover_pro.png (cover)
+2. screenshots/01_before_after.png (before and after)
+3. reports/project_evidence_report.pdf (PDF report)
+4. Relevant output CSV or PNG if Upwork accepts the file type.

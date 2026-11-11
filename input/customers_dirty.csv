@@ -1,0 +1,9 @@
+customer_id,name,email,city,signup_date
+C001,  Ana Putri ,ANA@Example.com, jakarta ,2026/01/12
+C002,Budi Santoso,budi@example.com,BANDUNG,2026-01-13
+C003,Citra Dewi,citra@example.com,Padang,13-01-2026
+C001,Ana Putri,ana@example.com,Jakarta,2026-01-12
+C004, Deni  ,,surabaya,2026-01-14
+C005,Eka,eka@example.com,JAKARTA,2026-01-16
+C006,,fajar@example.com,Medan,2026-01-20
+C007,Gita,gita@example.com,Bogor,2026-01-22
